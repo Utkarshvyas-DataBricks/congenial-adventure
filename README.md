@@ -1,4 +1,4 @@
-# Git Assignment - <Utkarshvyas-DataBricks>
+# Git Assignment - Utkarshvyas-DataBricks
 
 a. What is an issue? its a feature that allows us to track changes and in sofware projects and project management field.
 
